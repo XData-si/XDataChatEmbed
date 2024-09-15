@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Embed
+# Flowise Embed XData
 
 Javascript library to display flowise chatbot on your website
 
@@ -51,7 +51,7 @@ yarn build
 <flowise-fullchatbot></flowise-fullchatbot>
 ```
 
-To enable full screen, add `margin: 0` to <code>body</code> style, and confirm you don't set height and width
+To enable full screen, add `margin: 0` to `<code>`body`</code>` style, and confirm you don't set height and width
 
 ```html
 <body style="margin: 0">
